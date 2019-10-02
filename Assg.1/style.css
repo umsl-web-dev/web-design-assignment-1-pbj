@@ -1,0 +1,85 @@
+.wrapper
+    {
+        background-color: black; 
+    }
+
+.headings
+    {
+        color: whitesmoke; 
+        text-align: center; 
+        margin-top: 60px; 
+    }
+
+.text
+    {
+        color: whitesmoke;
+        text-align: center;
+        margin-right: 280px;
+        margin-left: 280px;
+        margin-top: 40px;
+    }
+
+.menu ul
+    {
+        display: inline-flex; 
+    }
+
+.menu ul li
+    {
+        list-style: none; 
+        margin: 0 20px;
+        color: #b2b1b1; 
+        cursor: pointer; 
+    }
+
+.logo img
+    {
+        width: 80px;
+        height: 75px;
+        margin-top: -24px;
+        margin-right: 40px; 
+        margin-left: -67px;
+    }
+    .tg  
+    {
+        border-collapse:collapse;
+        border-spacing:0;
+    }
+                
+    .tg td
+    {
+        font-family:Arial, sans-serif;
+        color: whitesmoke; 
+        font-size:14px;
+        padding:10px 5px;
+        border-style:solid;
+        border-width:1px;
+        overflow:hidden;
+        word-break:normal;
+        border-color: purple;
+    }
+    .tg th
+    {
+        font-family:Arial, sans-serif;
+        font-size:14px;
+        color: whitesmoke; 
+        font-weight:normal;
+        padding:10px 5px;
+        border-style:solid;
+        border-width:1px;
+        overflow:hidden;
+        word-break:normal;
+        border-color:red;
+    }
+    
+    .tg .tg-cly1
+    {
+        text-align:left;
+        vertical-align:middle
+    }
+    
+    .tg .tg-0lax
+    {
+        text-align:left;
+        vertical-align:top
+    }
