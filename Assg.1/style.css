@@ -10,6 +10,7 @@
         margin-top: 60px; 
     }
 
+
 .text
     {
         color: whitesmoke;
@@ -28,7 +29,7 @@
     {
         list-style: none; 
         margin: 0 20px;
-        color: #b2b1b1; 
+        color: whitesmoke; 
         cursor: pointer; 
     }
 
